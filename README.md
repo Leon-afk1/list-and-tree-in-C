@@ -1,4 +1,12 @@
-# C Data Structures Example
+# C Data Structures Example 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40"   height="40"/>
+</div>
+
+
+
+
+
 
 A simple C project demonstrating the use of linked lists and trees with various functions.
 
